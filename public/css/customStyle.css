@@ -1,0 +1,40 @@
+
+body{
+    background: url('https://cdn.pixabay.com/photo/2015/07/31/20/49/background-869603__340.png') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+.filter-white{
+    filter: invert(100%) sepia(0%) saturate(7493%) hue-rotate(305deg) brightness(103%) contrast(103%);
+}
+.navbar-header {
+    float: left;
+    text-align: center;
+    width: 100%;
+}
+.navbar-brand {float:none;}
+
+.jumbotron {
+    background: url('https://www.audioandvideoadvantage.com/wp-content/uploads/2017/10/gradient-black-background-wallpaper-1.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+.card-grey-bg{
+    background: url('https://rlv.zcache.co.uk/chalkboard_gray_background_grey_chalk_board_black_business_card-r563a5ce2893240d49e9d02cee391cb54_em40b_307.jpg?rvtype=content') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+
+}
+
+
+

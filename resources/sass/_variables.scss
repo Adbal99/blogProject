@@ -1,0 +1,39 @@
+// Body
+$body-bg: #f8fafc;
+
+// Typography
+$font-family-sans-serif: 'Dosis', sans-serif;
+$font-family-sans-serif: 'Open Sans', sans-serif;
+$font-size-base: 0.9rem;
+$line-height-base: 1.6;
+
+// Colors
+$blue: #3490dc;
+$indigo: #6574cd;
+$purple: #9561e2;
+$pink: #f66d9b;
+$red: #e3342f;
+$orange: #f6993f;
+$yellow: #ffed4a;
+$green: #38c172;
+$teal: #4dc0b5;
+$cyan: #6cb2eb;
+
+
+
+//Bootstrap custom variables
+$theme-colors: (
+    "danger": #ff4136,
+    "purple": #6800ff,
+    "lightDark": #d5d4d7,
+    'coolGrey': #636b6f,
+    'black': #232324
+);
+
+$enable-gradients: true;
+
+$spacers: (
+    10: (2rem * 10),
+    7: (2rem * 9),
+    6: (2rem * 8),
+)
